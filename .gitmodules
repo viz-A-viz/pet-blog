@@ -1,0 +1,6 @@
+[submodule "solo-project-blog-back"]
+	path = solo-project-blog-back
+	url = git@github.com:viz-A-viz/solo-project-blog-back.git
+[submodule "solo-project-blog-front"]
+	path = solo-project-blog-front
+	url = git@github.com:viz-A-viz/solo-project-blog-front.git
