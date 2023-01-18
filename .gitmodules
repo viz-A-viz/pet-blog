@@ -4,3 +4,6 @@
 [submodule "solo-project-blog-front"]
 	path = solo-project-blog-front
 	url = git@github.com:viz-A-viz/solo-project-blog-front.git
+[submodule "solo-project-blog-back-nestjs"]
+	path = solo-project-blog-back-nestjs
+	url = git@github.com:viz-A-viz/solo-project-blog-back-nestjs.git
