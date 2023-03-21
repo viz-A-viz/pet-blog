@@ -1,9 +1,9 @@
-[submodule "solo-project-blog-back"]
-	path = solo-project-blog-back
-	url = git@github.com:viz-A-viz/solo-project-blog-back.git
-[submodule "solo-project-blog-front"]
-	path = solo-project-blog-front
-	url = git@github.com:viz-A-viz/solo-project-blog-front.git
-[submodule "solo-project-blog-back-nestjs"]
-	path = solo-project-blog-back-nestjs
-	url = git@github.com:viz-A-viz/solo-project-blog-back-nestjs.git
+[submodule "pet-blog-frontend"]
+	path = pet-blog-frontend
+	url = git@github.com:viz-A-viz/pet-blog-frontend.git
+[submodule "pet-blog-backend-nestjs"]
+	path = pet-blog-backend-nestjs
+	url = git@github.com:viz-A-viz/pet-blog-backend-nestjs.git
+[submodule "pet-blog-rn-app"]
+	path = pet-blog-rn-app
+	url = git@github.com:viz-A-viz/pet-blog-rn-app.git
