@@ -1,9 +1,0 @@
-[submodule "pet-blog-frontend"]
-	path = pet-blog-frontend
-	url = git@github.com:viz-A-viz/pet-blog-frontend.git
-[submodule "pet-blog-backend-nestjs"]
-	path = pet-blog-backend-nestjs
-	url = git@github.com:viz-A-viz/pet-blog-backend-nestjs.git
-[submodule "pet-blog-rn-app"]
-	path = pet-blog-rn-app
-	url = git@github.com:viz-A-viz/pet-blog-rn-app.git
